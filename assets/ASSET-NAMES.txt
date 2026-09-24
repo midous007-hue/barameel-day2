@@ -1,0 +1,54 @@
+BARAMEEL RUN — NEW PROJECT ASSET NAMES
+Upload the screen artwork files directly into /assets using EXACTLY these names.
+
+SCREEN 01
+screen01-start.png
+
+SCREEN 02 — CHOOSE RUNNER
+screen02-rookie.png
+screen02-skater.png
+screen02-brona.png
+screen02-racer.png
+screen02-chiller.png
+screen02-dreamer.png
+
+SCREEN 03 — RUNNER CONFIRMED
+screen03-rookie.png
+screen03-skater.png
+screen03-brona.png
+screen03-racer.png
+screen03-chiller.png
+screen03-dreamer.png
+
+SCREEN 04 — HOME / RUN DASHBOARD
+screen04-rookie.png
+screen04-skater.png
+screen04-brona.png
+screen04-racer.png
+screen04-chiller.png
+screen04-dreamer.png
+
+SCREEN 05 — QR CHECKPOINT SCANNER
+screen05-scanner.png
+
+SCREEN 06 — CHECKPOINT PUZZLE / PIECE FOUND
+screen06-puzzle.png
+
+SCREEN 07 — NEXT CHECKPOINT
+screen07-next-checkpoint.png
+
+SCREEN 08 — CHECKPOINT HUNT / COLLECTION PROGRESS
+screen08-checkpoint-hunt.png
+
+SCREEN 09 — LEADERBOARD
+screen09-leaderboard.png
+
+SCREEN 10 — REDEEM / REWARD
+screen10-redeem.png
+
+IMPORTANT:
+- Do not rename the collection files inside /assets/collections/collection01/.
+- Keep the original screen aspect ratio.
+- Do not crop or resize the artwork before uploading.
+- All dynamic values are overlaid by the game only where the artwork intentionally leaves a blank data area.
+- The visible artwork remains the source of truth; HTML hotspots are transparent and positioned over the printed controls.
